@@ -1,0 +1,18 @@
+# Logs lourds
+*.log
+temp_*.log
+
+# Base de données locale
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
